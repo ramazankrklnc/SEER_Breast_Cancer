@@ -1,1 +1,1 @@
-Yapay Zeka üzerine yapılmış bu çalışmada çeşitli makine öğrenme ve derin öğrenme modelleri üzerine model eğitimi yapılmıştır. Gerekli açıklamaları tek tek kendi analizim olduğu için proje üzerine konuşmak isterseniz mail adresimden ulaşabilirsiniz.
+Yapay Zeka üzerine yapılmış bu çalışmada çeşitli makine öğrenme ve derin öğrenme modelleri üzerine model eğitimi yapılmıştır. Gerekli açıklamalar kendi analizim olduğu için proje üzerine konuşmak isterseniz mail adresimden ulaşabilirsiniz.
